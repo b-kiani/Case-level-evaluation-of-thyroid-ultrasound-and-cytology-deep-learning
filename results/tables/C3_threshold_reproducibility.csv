@@ -1,0 +1,11 @@
+modality,model,max_abs_threshold_difference
+cytology,ConvNeXt-Small,0.0
+cytology,DenseNet-121,0.0
+cytology,EfficientNet-B3,0.0
+cytology,ResNet-50,0.0
+cytology,Swin-Tiny,0.0
+ultrasound,ConvNeXt-Small,0.0
+ultrasound,DenseNet-121,0.0
+ultrasound,EfficientNet-B3,0.0
+ultrasound,ResNet-50,0.0
+ultrasound,Swin-Tiny,0.0

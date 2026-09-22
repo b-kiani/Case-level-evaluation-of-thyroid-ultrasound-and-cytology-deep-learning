@@ -1,0 +1,16 @@
+input,fold,auroc
+full image,1,0.8002136752136753
+full image,2,0.5836956521739132
+full image,3,0.7325708061002179
+full image,4,0.7105855855855856
+full image,5,0.6739583333333334
+surround only (sector blacked out),1,0.7948717948717949
+surround only (sector blacked out),2,0.6760869565217391
+surround only (sector blacked out),3,0.6721132897603487
+surround only (sector blacked out),4,0.6576576576576577
+surround only (sector blacked out),5,0.6635416666666667
+sector only (surround blacked out),1,0.7339743589743589
+sector only (surround blacked out),2,0.6652173913043479
+sector only (surround blacked out),3,0.738562091503268
+sector only (surround blacked out),4,0.6081081081081082
+sector only (surround blacked out),5,0.6875

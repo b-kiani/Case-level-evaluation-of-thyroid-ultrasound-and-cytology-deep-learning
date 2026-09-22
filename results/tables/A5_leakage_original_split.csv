@@ -1,0 +1,5 @@
+modality,partition,images,cases,images_with_same_case_in_train,cases_with_images_in_train,cross_label_conflict_images
+cytology,val,200,160,0.925,0.944,0
+cytology,test,200,160,0.89,0.931,0
+ultrasound,val,59,59,0.0,0.0,4
+ultrasound,test,60,60,0.0,0.0,6

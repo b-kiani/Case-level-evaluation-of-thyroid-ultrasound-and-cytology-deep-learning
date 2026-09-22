@@ -1,0 +1,13 @@
+modality,hamming_max,pairs,cross_case,cross_label,cross_frozen_partition
+cytology,0,4,4,0,0
+cytology,2,5,5,0,1
+cytology,4,5,5,0,1
+cytology,6,7,6,0,1
+cytology,8,8,7,0,1
+cytology,10,8,7,0,1
+ultrasound,0,14,14,12,0
+ultrasound,2,14,14,12,0
+ultrasound,4,21,21,15,0
+ultrasound,6,41,41,25,9
+ultrasound,8,184,184,69,69
+ultrasound,10,818,818,293,355

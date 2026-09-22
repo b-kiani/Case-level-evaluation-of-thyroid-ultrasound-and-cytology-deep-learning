@@ -1,0 +1,8 @@
+item,value
+patients,384
+benign / PTC,165 / 219
+linkage,class folder + case number (ultrasound <n>.jpg <-> cytology <n>_<block>.tif)
+split,"{'development': 307, 'holdout': 77}"
+patients carrying a cross-label duplicated ultrasound image,18
+holdout patients whose ultrasound image is byte-identical to a development patient's,4
+holdout patients involved,"BEN_0038, BEN_0055, PTC_0027, PTC_0093"

@@ -1,0 +1,30 @@
+modality,conflict_type,case_key,label,id,md5,may_split,in_frozen_manifest,frozen_split
+cytology,"same label, different cases",PTC_0199,1,cytological images of papillary thyroid carcinoma/199_001.tif,2293d9cbc381e9b3b1797ecfaeacf66f,train,True,train
+cytology,"same label, different cases",PTC_0201,1,cytological images of papillary thyroid carcinoma/201_001.tif,2293d9cbc381e9b3b1797ecfaeacf66f,train,True,train
+cytology,"same label, different cases",BEN_0116,0,cytological images of benign thyroid lesions/116_003.tif,3af2a01d518cbab3d1155aafcfe8c848,train,True,train
+cytology,"same label, different cases",BEN_0117,0,cytological images of benign thyroid lesions/117_002.tif,3af2a01d518cbab3d1155aafcfe8c848,train,True,train
+cytology,"same label, different cases",PTC_0081,1,cytological images of papillary thyroid carcinoma/81_002.tif,af62e040024b7f5ed7575628992c9a06,train,True,train
+cytology,"same label, different cases",PTC_0082,1,cytological images of papillary thyroid carcinoma/82_002.tif,af62e040024b7f5ed7575628992c9a06,train,True,train
+cytology,"same label, different cases",PTC_0199,1,cytological images of papillary thyroid carcinoma/199_003.tif,f4494ae13aa6cf0d76db7fd3ceddf401,train,True,train
+cytology,"same label, different cases",PTC_0201,1,cytological images of papillary thyroid carcinoma/201_003.tif,f4494ae13aa6cf0d76db7fd3ceddf401,train,True,train
+ultrasound,cross-label,BEN_0039,0,ultrasound images of benign thyroid lesions/39.jpg,2017d24c7ea7064164b107ed3b279ea7,val,False,
+ultrasound,cross-label,PTC_0103,1,ultrasound images of papillary thyroid carcinoma/103.jpg,2017d24c7ea7064164b107ed3b279ea7,val,False,
+ultrasound,cross-label,BEN_0036,0,ultrasound images of benign thyroid lesions/36.jpg,2ce2868b2042d681ed2ffedd6fa077d7,val,False,
+ultrasound,cross-label,PTC_0093,1,ultrasound images of papillary thyroid carcinoma/93.jpg,2ce2868b2042d681ed2ffedd6fa077d7,val,False,
+ultrasound,cross-label,BEN_0003,0,ultrasound images of benign thyroid lesions/3.jpg,5a252403dec58e49f8384225223900ea,train,False,
+ultrasound,cross-label,BEN_0055,0,ultrasound images of benign thyroid lesions/55.jpg,5a252403dec58e49f8384225223900ea,train,False,
+ultrasound,cross-label,PTC_0139,1,ultrasound images of papillary thyroid carcinoma/139.jpg,5a252403dec58e49f8384225223900ea,train,False,
+ultrasound,cross-label,BEN_0061,0,ultrasound images of benign thyroid lesions/61.jpg,71164f281603d442bf5808a4febfd03c,train,False,
+ultrasound,cross-label,PTC_0160,1,ultrasound images of papillary thyroid carcinoma/160.jpg,71164f281603d442bf5808a4febfd03c,train,False,
+ultrasound,cross-label,BEN_0044,0,ultrasound images of benign thyroid lesions/44.jpg,83728c1b56f165f0024ed92aa2d4ca83,test,False,
+ultrasound,cross-label,PTC_0112,1,ultrasound images of papillary thyroid carcinoma/112.jpg,83728c1b56f165f0024ed92aa2d4ca83,test,False,
+ultrasound,cross-label,BEN_0019,0,ultrasound images of benign thyroid lesions/19.jpg,925e32aba60228a11330d17e00d26c52,test,False,
+ultrasound,cross-label,PTC_0027,1,ultrasound images of papillary thyroid carcinoma/27.jpg,925e32aba60228a11330d17e00d26c52,test,False,
+ultrasound,cross-label,BEN_0025,0,ultrasound images of benign thyroid lesions/25.jpg,acef77b7e8e42fe3173fe0a7521e2e30,train,False,
+ultrasound,cross-label,PTC_0044,1,ultrasound images of papillary thyroid carcinoma/44.jpg,acef77b7e8e42fe3173fe0a7521e2e30,train,False,
+ultrasound,cross-label,BEN_0038,0,ultrasound images of benign thyroid lesions/38.jpg,b23899ff958e2e0777e17ea8d601e7d3,train,False,
+ultrasound,cross-label,PTC_0099,1,ultrasound images of papillary thyroid carcinoma/99.jpg,b23899ff958e2e0777e17ea8d601e7d3,train,False,
+ultrasound,cross-label,BEN_0020,0,ultrasound images of benign thyroid lesions/20.jpg,e8f7705cd05f793d14068efbae5fd71b,test,False,
+ultrasound,cross-label,PTC_0037,1,ultrasound images of papillary thyroid carcinoma/37.jpg,e8f7705cd05f793d14068efbae5fd71b,test,False,
+ultrasound,"same label, different cases",PTC_0114,1,ultrasound images of papillary thyroid carcinoma/114.jpg,1bfd41702c0e7e637950961a76ff6c9f,val,True,val
+ultrasound,"same label, different cases",PTC_0115,1,ultrasound images of papillary thyroid carcinoma/115.jpg,1bfd41702c0e7e637950961a76ff6c9f,val,True,val

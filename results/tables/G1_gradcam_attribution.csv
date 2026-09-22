@@ -1,0 +1,6 @@
+outcome,images,mean_cam_mass_outside_sector,median_cam_mass_outside_sector,mean_area_outside_sector,share_peak_outside_sector
+FN,10,0.517,0.549,0.53,0.5
+FP,15,0.472,0.395,0.538,0.467
+TN,31,0.554,0.501,0.423,0.71
+TP,54,0.323,0.246,0.467,0.204
+ALL,110,0.426,0.375,0.47,0.409

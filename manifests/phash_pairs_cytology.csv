@@ -1,0 +1,9 @@
+i,j,hamming,cross_case,cross_label,both_in_frozen,cross_frozen_partition
+68,1203,6,False,False,True,False
+103,780,0,True,False,True,False
+118,938,0,True,False,True,False
+140,207,8,True,False,True,False
+192,683,6,True,False,True,False
+272,844,2,True,False,True,True
+597,1324,0,True,False,True,False
+652,803,0,True,False,True,False

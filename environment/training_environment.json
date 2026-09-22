@@ -1,0 +1,28 @@
+{
+  "python": "3.10.19 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 16:41:31) [MSC v.1929 64 bit (AMD64)]",
+  "platform": "Windows-10-10.0.26200-SP0",
+  "torch": "2.5.1+cu121",
+  "timm": "1.0.22",
+  "numpy": "2.2.6",
+  "pandas": "2.3.3",
+  "cuda_available": true,
+  "cuda_version": "12.1",
+  "gpu": "NVIDIA GeForce RTX 4060",
+  "manifest": "D:\\Thyroid-BHI-26\\revision_final_frozen_70_15_15\\04_frozen_manifest.csv",
+  "manifest_sha256": "83e656eff33e272020d85f8faf4004285a67768d3ef79e040c59ee13ea1575f5",
+  "seed": 2026,
+  "epochs": 40,
+  "lr": 0.0003,
+  "weight_decay": 0.0001,
+  "image_size": 224,
+  "batch_size": 16,
+  "num_workers": 4,
+  "models": [
+    "convnext_small",
+    "efficientnet_b3",
+    "swin_tiny",
+    "resnet50",
+    "densenet121"
+  ],
+  "modality_arg": "all"
+}

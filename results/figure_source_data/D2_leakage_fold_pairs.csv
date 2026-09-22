@@ -1,0 +1,11 @@
+model,fold,case_grouped,image_level
+ConvNeXt-Small,1,0.9534,0.9371
+ConvNeXt-Small,2,0.8006,0.7689
+ConvNeXt-Small,3,0.8001,0.862
+ConvNeXt-Small,4,0.9298,0.9135
+ConvNeXt-Small,5,0.8763,0.9174
+EfficientNet-B3,1,0.9551,0.9564
+EfficientNet-B3,2,0.9882,0.9888
+EfficientNet-B3,3,0.9288,0.9847
+EfficientNet-B3,4,0.9757,0.9727
+EfficientNet-B3,5,0.9498,0.9775

@@ -1,0 +1,11 @@
+modality,model_key,model,n_outer_folds,development_images,development_source_groups,development_components,fold_auroc_mean,fold_auroc_sd,fold_auprc_mean,fold_auprc_sd,pooled_oof_image_auroc,pooled_oof_image_auprc,pooled_oof_source_group_auroc,pooled_oof_source_group_auprc
+ultrasound,convnext_small,ConvNeXt-Small,5,309,309,308,0.644,0.1019,0.7219,0.09,0.5277,0.6275,0.5277,0.6275
+ultrasound,efficientnet_b3,EfficientNet-B3,5,309,309,308,0.7002,0.0797,0.7711,0.0513,0.7066,0.7672,0.7066,0.7672
+ultrasound,swin_tiny,Swin-Tiny,5,309,309,308,0.6123,0.0662,0.6815,0.0623,0.5884,0.653,0.5884,0.653
+ultrasound,resnet50,ResNet50,5,309,309,308,0.7429,0.0844,0.7964,0.0648,0.7211,0.7672,0.7211,0.7672
+ultrasound,densenet121,DenseNet121,5,309,309,308,0.796,0.0482,0.8382,0.0282,0.7765,0.8079,0.7765,0.8079
+cytology,convnext_small,ConvNeXt-Small,5,1118,326,323,0.872,0.0711,0.88,0.0602,0.8676,0.8583,0.8751,0.8822
+cytology,efficientnet_b3,EfficientNet-B3,5,1118,326,323,0.9595,0.0231,0.9566,0.0278,0.9544,0.9512,0.9687,0.9726
+cytology,swin_tiny,Swin-Tiny,5,1118,326,323,0.963,0.0266,0.9639,0.0288,0.9504,0.9446,0.9663,0.9712
+cytology,resnet50,ResNet50,5,1118,326,323,0.9581,0.0266,0.9627,0.0239,0.9564,0.9613,0.968,0.974
+cytology,densenet121,DenseNet121,5,1118,326,323,0.9566,0.026,0.959,0.0298,0.9481,0.9485,0.9678,0.9748

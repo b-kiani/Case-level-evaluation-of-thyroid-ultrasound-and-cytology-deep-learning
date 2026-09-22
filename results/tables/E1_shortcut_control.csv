@@ -1,0 +1,4 @@
+input,fold_auroc_mean_sd,fold_aurocs,pooled_oof_auroc,ci_excludes_chance
+full image,0.700 ± 0.080,"0.800, 0.584, 0.733, 0.711, 0.674",0.707 (0.647–0.764),True
+surround only (sector blacked out),0.693 ± 0.057,"0.795, 0.676, 0.672, 0.658, 0.664",0.685 (0.624–0.743),True
+sector only (surround blacked out),0.687 ± 0.054,"0.734, 0.665, 0.739, 0.608, 0.688",0.697 (0.638–0.752),True

@@ -1,0 +1,7 @@
+modality,split,images,cases,benign,ptc
+cytology,test,214,58,102,112
+cytology,train,907,269,427,480
+cytology,val,211,57,106,105
+ultrasound,test,55,55,23,32
+ultrasound,train,254,254,107,147
+ultrasound,val,55,55,23,32

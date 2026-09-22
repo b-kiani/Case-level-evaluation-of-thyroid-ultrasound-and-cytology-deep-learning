@@ -1,0 +1,13 @@
+analysis,modality,model,selected_on,image_level_threshold,case_level_threshold
+frozen case-level split,cytology,convnext_small,"validation partition, Youden index",0.3789275586605072,0.46851931015650433
+frozen case-level split,cytology,densenet121,"validation partition, Youden index",0.17671415209770203,0.6089658637841543
+frozen case-level split,cytology,efficientnet_b3,"validation partition, Youden index",0.5992820262908936,0.6178116376201311
+frozen case-level split,cytology,ensemble,"validation partition, Youden index",0.5923881310969591,0.5433319531666636
+frozen case-level split,cytology,resnet50,"validation partition, Youden index",0.8485795855522156,0.6652876491037508
+frozen case-level split,cytology,swin_tiny,"validation partition, Youden index",0.4947223365306854,0.6460855553547541
+frozen case-level split,ultrasound,convnext_small,"validation partition, Youden index",0.47207894921302795,0.47207894921302795
+frozen case-level split,ultrasound,densenet121,"validation partition, Youden index",0.39658287167549133,0.39658287167549133
+frozen case-level split,ultrasound,efficientnet_b3,"validation partition, Youden index",0.0062033673748373985,0.0062033673748373985
+frozen case-level split,ultrasound,ensemble,"validation partition, Youden index",0.35074093490839003,0.35074093490839003
+frozen case-level split,ultrasound,resnet50,"validation partition, Youden index",0.1440109759569168,0.1440109759569168
+frozen case-level split,ultrasound,swin_tiny,"validation partition, Youden index",0.41981807351112366,0.41981807351112366

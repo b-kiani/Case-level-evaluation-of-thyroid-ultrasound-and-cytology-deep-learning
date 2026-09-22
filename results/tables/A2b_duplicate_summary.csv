@@ -1,0 +1,4 @@
+modality,conflict_type,groups,images,kept_in_frozen
+cytology,"same label, different cases",4,8,8
+ultrasound,cross-label,9,19,0
+ultrasound,"same label, different cases",1,2,2

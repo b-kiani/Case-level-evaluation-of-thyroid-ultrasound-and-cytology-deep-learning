@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite the manuscript and the datasets it uses."
+title: "Case-level evaluation of thyroid ultrasound and cytology deep learning: analysis release"
+authors:
+  - family-names: "Kiani Kalejahi"
+    given-names: "Behnam"
+    affiliation: "Central Asian University; INTI International University"
+  - family-names: "Rajabi"
+    given-names: "Mohammad Javad"
+    affiliation: "INTI International University"
+version: "1.0.0"
+license: MIT
+repository-code: "[repository URL]"
